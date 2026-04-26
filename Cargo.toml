@@ -1,6 +1,6 @@
 [package]
 name = "chiragagg5k-openruntimes-types-for-rust"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 rust-version = "1.83"
 authors = ["Open Runtimes <team@openruntimes.io>"]
